@@ -352,8 +352,11 @@ int emptyApartments(const Apartment* apt, int num) {
    }
    return sum;
 }
+```
+
 ## Execution sample
 The tester program tests all the operator overloads and the output should be as follows:
+
 ```Text
 Using bool conversion overload and operator ~ to print the apartments
 +-----+------+--------------+
